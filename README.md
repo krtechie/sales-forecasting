@@ -16,7 +16,7 @@ K-Means clustering, and exposes everything through a live interactive Streamlit 
 - `videogamesales.csv`: Supplementary dataset (multi-source merge practice)
 - `app.py`: Streamlit dashboard (Task 7)
 - `requirements.txt`: Python dependencies
-- `summary.pdf`: Executive business report (Task 8)
+- `summary.docx`: Executive business report (Task 8)
 - `charts/`: Exported chart images
 
 ## Live Dashboard
