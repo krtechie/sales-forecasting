@@ -1,7 +1,7 @@
 # End-to-End Sales Forecasting & Demand Intelligence System
 
 **Author:** Karanpal Singh Ranawat
-**Project:** Internship Final Project (Week 3 & 4)
+**Project:** End-to-End Sales Forecasting & Demand Intelligence System
 
 ## Overview
 An end-to-end retail sales forecasting and demand intelligence system built on the
@@ -11,16 +11,16 @@ anomalies using two independent methods, segments products by demand behavior vi
 K-Means clustering, and exposes everything through a live interactive Streamlit dashboard.
 
 ## Contents
-- `analysis.ipynb` — Full analysis notebook (Tasks 1–6)
-- `train.csv` — Superstore Sales dataset
-- `videogamesales.csv` — Supplementary dataset (multi-source merge practice)
-- `app.py` — Streamlit dashboard (Task 7)
-- `requirements.txt` — Python dependencies
-- `summary.pdf` — Executive business report (Task 8)
-- `charts/` — Exported chart images
+- `analysis.ipynb`: Full analysis notebook (Tasks 1 to 6)
+- `train.csv`: Superstore Sales dataset
+- `videogamesales.csv`: Supplementary dataset (multi-source merge practice)
+- `app.py`: Streamlit dashboard (Task 7)
+- `requirements.txt`: Python dependencies
+- `summary.pdf`: Executive business report (Task 8)
+- `charts/`: Exported chart images
 
 ## Live Dashboard
-[Streamlit App Link — to be added]
+https://superstore-demand-intelligence.streamlit.app
 
 ## Setup
 ```bash
